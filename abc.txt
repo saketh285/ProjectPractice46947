@@ -1,0 +1,8 @@
+class Employee(models.Model):
+        EmpId=models.IntegerField()
+        EmpName=models.CharFeild()
+
+class Student{
+int StudentId;
+String StudentName;
+}
