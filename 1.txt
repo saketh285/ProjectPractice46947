@@ -3,5 +3,12 @@ class login{
 public String Username;
 public String Password;
 
+<<<<<<< HEAD
 
 }
+=======
+public boolean login{
+
+   }
+}
+>>>>>>> 3f86744c749d8c78c906f0c10fa69e599ca38809
