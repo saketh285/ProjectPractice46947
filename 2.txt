@@ -1,6 +1,16 @@
+
 Story - 122
 
 public class Register{
 public String User;
 public String Pass;
+
+
+story - 121
+
+public class Login{
+
+public String Username;
+public String Password
+
 }
