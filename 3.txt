@@ -1,6 +1,19 @@
+<<<<<<< Updated upstream
 story 2
 
 public class Engine{
       public int EngineModelNumber;
       public String ModelName;
+=======
+story 1
+
+public class Car{
+     public int CarModelNumber;
+     public String CarName;
+     public Double CarPrice;
+
+     public void CarDetails(){
+          System.out.println("")
+}
+>>>>>>> Stashed changes
 }
