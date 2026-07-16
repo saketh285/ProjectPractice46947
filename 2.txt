@@ -14,3 +14,10 @@ public String Username;
 public String Password
 
 }
+ story - 123
+
+
+public class College{
+public String CollegeName;
+public String CollegeLocation;
+}
