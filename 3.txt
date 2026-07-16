@@ -1,0 +1,6 @@
+story 2
+
+public class Engine{
+      public int EngineModelNumber;
+      public String ModelName;
+}
