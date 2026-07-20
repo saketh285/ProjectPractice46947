@@ -21,3 +21,8 @@ public class College{
 public String CollegeName;
 public String CollegeLocation;
 }
+
+story - 124
+public class Student{
+public String Sname
+}
